@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="/" target="_blank">mohd.sharique</a>
+  <a href="https://precious-donut-a4af22.netlify.app/" target="_blank">mohd.sharique</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
